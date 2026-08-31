@@ -17,11 +17,12 @@ README.md (This documentation)
 # 🚀 Setup & Deployment
 1. Discord Webhook Setup
 To allow the bot to send messages, you need to create a webhook in your Discord server
-:
+.
 Go to Server Settings > Integrations.
 Click Create Webhook.
 Copy the Webhook URL and paste it into your rep_bot.py file.
-**2. Deployment on Vercel**
+.
+2. Deployment on Vercel
 To keep the bot running (as described in sources for web-hosted scripts
 ):
 Connect your GitHub account to Vercel.
